@@ -7,7 +7,7 @@
 
 
 ## Notes
-BlowFist Ticket: ticket number (3875)
+BlowFish Ticket: ticket number (3875)
 
 ## website
 https://3p0.capital/
